@@ -45,6 +45,8 @@ Enable buyers with seamless browsing and secure transactions
 Empower admins with governance & compliance controls
 
 🛠️ Technology Stack
+
+
 🔹 Frontend
 
 Next.js 15 – Fast, SEO-optimized framework
